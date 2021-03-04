@@ -9,3 +9,6 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion, paper not yet]()
   - [[Code](https://github.com/ShiQiu0419/BAAF-Net)]
+
+- [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/pdf/2009.03137.pdf) `dataset`
+  - [[Code](https://github.com/QingyongHu/SensatUrban)]
