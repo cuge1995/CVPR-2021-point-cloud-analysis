@@ -12,3 +12,6 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/pdf/2009.03137.pdf) `dataset`
   - [[Code](https://github.com/QingyongHu/SensatUrban)]
+
+- [Few-shot 3D Point Cloud Semantic Segmentation.]() 
+  - [[Code](https://github.com/Na-Z/attMPTI)]
