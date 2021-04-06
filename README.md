@@ -15,3 +15,6 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Few-shot 3D Point Cloud Semantic Segmentation.]() 
   - [[Code](https://github.com/Na-Z/attMPTI)]
+
+- [Bidirectional Projection Network for Cross Dimension Scene Understanding.]() 
+  - [[Code](https://github.com/wbhu/BPNet)]
