@@ -18,3 +18,6 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Bidirectional Projection Network for Cross Dimension Scene Understanding.]() `oral` `2D/3D`
   - [[Code](https://github.com/wbhu/BPNet)]
+
+- [Self-supervised Geometric Perception.](https://arxiv.org/pdf/2103.03114.pdf) `matching`
+  - [[Code](https://github.com/theNded/SGP)]
