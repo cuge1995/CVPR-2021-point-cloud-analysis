@@ -4,7 +4,7 @@ CVPR 2021 papers focusing on point cloud analysis
 - [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)
   - [[Code](https://github.com/ShengyuH/OverlapPredator)]
 
-- [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/pdf/2103.01458.pdf)
+- [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/pdf/2103.01458.pdf)  `oral` `generation`
   - [[Code](https://github.com/luost26/diffusion-point-cloud)]
 
 - [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion, paper not yet]()
@@ -21,3 +21,6 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Self-supervised Geometric Perception.](https://arxiv.org/pdf/2103.03114.pdf) `oral` `registration`
   - [[Code](https://github.com/theNded/SGP)]
+
+- [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion.](https://arxiv.org/pdf/2103.02535.pdf)  `completion`
+  - [[Code](https://github.com/microsoft/SpareNet)]
