@@ -22,5 +22,8 @@ CVPR 2021 papers focusing on point cloud analysis
 - [Self-supervised Geometric Perception.](https://arxiv.org/pdf/2103.03114.pdf) `oral` `registration`
   - [[Code](https://github.com/theNded/SGP)]
 
+- [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration.](https://arxiv.org/pdf/2011.12149.pdf) `registration`
+  - [[Code](https://github.com/QingyongHu/SpinNet)]
+
 - [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion.](https://arxiv.org/pdf/2103.02535.pdf)  `completion`
   - [[Code](https://github.com/microsoft/SpareNet)]
