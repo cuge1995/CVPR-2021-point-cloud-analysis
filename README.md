@@ -27,3 +27,7 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion.](https://arxiv.org/pdf/2103.02535.pdf)  `completion`
   - [[Code](https://github.com/microsoft/SpareNet)]
+
+- [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding.](https://arxiv.org/pdf/2103.07838.pdf) `completion`
+
+- [PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths.](https://arxiv.org/pdf/2012.03408.pdf) `completion`
