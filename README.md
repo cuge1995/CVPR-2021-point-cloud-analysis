@@ -31,7 +31,7 @@ CVPR 2021 papers focusing on point cloud analysis
 - [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion.](https://arxiv.org/pdf/2103.02535.pdf)  `completion`
   - [[Code](https://github.com/microsoft/SpareNet)]
 
-- [VRCNet: Variational Relational Point Completion Network.](https://arxiv.org/pdf/2104.10154.pdf)  `completion` `oral`
+- [VRCNet: Variational Relational Point Completion Network.](https://arxiv.org/pdf/2104.10154.pdf)  `completion` `oral` `dataset`
   - [[Code](https://github.com/paul007pl/VRCNet)]
 
 
