@@ -37,9 +37,11 @@ CVPR 2021 papers focusing on point cloud analysis
 - [VRCNet: Variational Relational Point Completion Network.](https://arxiv.org/pdf/2104.10154.pdf)  `completion` `oral` `dataset`
   - [[Code](https://github.com/paul007pl/VRCNet)]
 
-
 - [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding.](https://arxiv.org/pdf/2103.07838.pdf) `completion`
 
 - [PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths.](https://arxiv.org/pdf/2012.03408.pdf) `completion`
 
 - [Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos.](https://hehefan.github.io/pdfs/p4transformer.pdf)  `point cloud video` `oral`
+
+- [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.](https://arxiv.org/pdf/2012.04355v2.pdf)  `detection` 
+  - [[Code](https://github.com/thu17cyz/3DIoUMatch)]
