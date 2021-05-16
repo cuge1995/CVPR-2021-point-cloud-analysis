@@ -7,6 +7,9 @@ CVPR 2021 papers focusing on point cloud analysis
 - [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/pdf/2012.09165.pdf) `segmentation` `oral`
   - [[Code](https://sekunde.github.io/project_efficient/)]
 
+- [MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization](https://arxiv.org/pdf/2101.06605.pdf) `Synchronization` `oral`
+  - [[Code](https://github.com/huangjh-pub/multibody-sync)]
+
 - [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/pdf/2103.01458.pdf)  `generation`
   - [[Code](https://github.com/luost26/diffusion-point-cloud)]
 
