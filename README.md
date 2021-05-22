@@ -43,5 +43,8 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos.](https://hehefan.github.io/pdfs/p4transformer.pdf)  `point cloud video` `oral`
 
+- [3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding.](https://arxiv.org/pdf/2103.16397.pdf)  `Affordance estimation` `new task` `dataset`
+  - [[Code](https://github.com/Gorilla-Lab-SCUT/AffordanceNet)]
+
 - [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.](https://arxiv.org/pdf/2012.04355v2.pdf)  `detection` 
   - [[Code](https://github.com/thu17cyz/3DIoUMatch)]
