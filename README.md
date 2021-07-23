@@ -39,6 +39,8 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding.](https://arxiv.org/pdf/2103.07838.pdf) `completion`
 
+- [View-Guided Point Cloud Completion.](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf) `completion`
+
 - [PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths.](https://arxiv.org/pdf/2012.03408.pdf) `completion`
 
 - [Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos.](https://hehefan.github.io/pdfs/p4transformer.pdf)  `point cloud video` `oral`
