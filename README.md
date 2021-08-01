@@ -50,3 +50,6 @@ CVPR 2021 papers focusing on point cloud analysis
 
 - [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection.](https://arxiv.org/pdf/2012.04355v2.pdf)  `detection` 
   - [[Code](https://github.com/thu17cyz/3DIoUMatch)]
+
+- [Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR-based Perception.](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Cylindrical_and_Asymmetrical_3D_Convolution_Networks_for_LiDAR_Segmentation_CVPR_2021_paper.pdf)  `oral` `segmentation`
+  - [[Code](https://github.com/xinge008/Cylinder3D)]
